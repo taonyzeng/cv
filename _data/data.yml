@@ -45,13 +45,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        • 10 years of professional experience in game industry.
+        • Proficient in computer graphics, computer animation, OpenGL rendering, shaders programming.
+        • Having a strong knowledge of cross platform mobile game development.
+        • Full-Stack game developer and sophisticated skills on C++, Lua, javascript, C#.
+        • Having a strong skills on various game engine such as Cocos2dx, Unity3D, Cocoscreator, Unreal.
+        • Professional experience on REST-ful api development base on nodejs+ express + mysql + sequalizer.
+        • Professional experience on building a MVC front-end framework base on HTML5, ES6 javascript, EJS, JQuery and Bootstrap. 
 
 education:
     - degree: M.E. in Pattern Recognition and Intelligent Systems
